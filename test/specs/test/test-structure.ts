@@ -1,3 +1,4 @@
+/*
 describe('mocha js demo - main suite',() =>{
     before(async () => {
         console.log('Hola soy un BEFORE HOOK')
@@ -21,3 +22,5 @@ describe('mocha js demo - main suite',() =>{
         await browser.debug()
     })
 })
+
+*/
